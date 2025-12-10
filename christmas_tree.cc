@@ -19,7 +19,7 @@ for (int t = 0; t < 3; t++) {
     for (int s = 0; s < height - 1; s++) {
         std::cout << " ";
     }
-    std::cout << "##\n";
+    std::cout << "###\n";
 }
 return 0 ;
 }
